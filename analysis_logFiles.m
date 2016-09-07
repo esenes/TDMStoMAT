@@ -2,7 +2,9 @@
 % Pulse counting with beam:
 %
 % counts the number of pulses with beam which are overcoming the beam 
-% current treshold 
+% current treshold and the number of pulses without beam.
+%
+% Developed for Xbox1
 %
 % REV. 1. by Theodoros Argyropoulos
 %
