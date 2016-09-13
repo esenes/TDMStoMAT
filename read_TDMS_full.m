@@ -38,4 +38,4 @@ for i = 1:length(files2save)
 end
 files2save_filtered = rot90(files2save_filtered);
 
-saveTDM2mat(f2s_f,dir_data,save_dir, Xbox);
+saveTDM2mat(files2save_filtered,dir_data,save_dir, Xbox);
