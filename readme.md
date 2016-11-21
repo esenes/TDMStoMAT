@@ -1,5 +1,9 @@
-
 # TDMStoMAT
+
+---
+Currently developing a new release to insert calibrations and do the first layer of the analysis already in this phase.
+---
+
 The following scriptis intended to read the TDMS file `Prod_<date>.tdms` generated from the LabVIEW-based acquisition system every day from the PXI output files.
 If necessary for the further analysis pay attention to the timestamps, beacause can happend that the events stored in a file are not related only to that date, but can vary (e.g. it happened that every night the file was generated at 23.00 insthead of at 00.00, so it was containing the events from 23.00 of the day befor the timestamp to the 22.59 of the correct day).
 
