@@ -16,7 +16,6 @@ dir_analysis ='/Users/esenes/swap_analysis/';
 save_dir = '/Volumes/mkx/TD26_Dogleg/matfiles/';
 
 startDate = '20160720';
-endDate = '20160721';
 %%%%%%%%%%%%%%%%%%%%%%% End of user input %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
